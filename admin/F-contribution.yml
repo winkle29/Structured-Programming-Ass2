@@ -1,0 +1,26 @@
+# IMPORTANT: It is very important that you correctly complete this contribution
+# statement.
+ 
+declaration: >-
+  We declare that the work toward our submission of Stage F was distributed among the group members as follows:
+
+# State your contributions as integers out of 100. The total contribution should
+# be 100 or 99 (33/33/33 is fine).  (Remove entries if you have fewer than three
+# members).  
+contributions:
+  - uid: u7141587
+    contribution: 33
+  - uid: u7113879
+    contribution: 33
+  - uid: u7153455
+    contribution: 33
+
+# Sign *your* name and uids here. (Remove entries if you have fewer
+# than three members)
+signatures:
+  - name: Aaron Chhor-Luu
+    uid: u7141587
+  - name: Nik Nur Aisyah binti Amran
+    uid: u7113879
+  - name: Prabhjot Kaur Dhawan
+    uid: u7153455
